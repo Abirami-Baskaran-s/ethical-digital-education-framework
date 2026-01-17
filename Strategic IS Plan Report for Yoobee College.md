@@ -43,6 +43,7 @@ NZQA Compliance & Ethical Data Use
 The proposed Information System (IS) will invest considerable emphasis on good data governance and security, adhering to NZQA regulations and ethical guidelines. This commitment will underpin the students' privacy of data and furnish students a means of being aware of the data which is being used. The system will also standardise moderation and assessment within/from templates and automated checklists, and directly deal with the "serious flaws" identified by NZQA that the current system suffers from, in order to refine operational internal moderation processes. The proposed system will have a module dedicated to an academic risk register to keep track of the risks of low achievement, operational staff turnover 
 
 Conclusion
+
 Mā te rongo, ka mōhio. - Through perception, comes awareness.
 Mā te mōhio, ka mārama.- Through awareness, comes understanding.
 Mā te mārama, ka mātau.- Through understanding, comes wisdom.
